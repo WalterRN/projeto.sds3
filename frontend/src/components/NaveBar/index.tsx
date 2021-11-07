@@ -12,7 +12,7 @@ function NaveBar() {
                             <img src={ImgDsDark} alt="DevSuperior" width="120" />
                         </Link>
                     </nav>
-                </div>
+                </div>  
             </div>
 
         </div>
